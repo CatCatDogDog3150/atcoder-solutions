@@ -8,7 +8,7 @@
 - 現在の目標: ABC問題を着実に解き進める
 
 ## 🚀 最近解いた問題
-- [ABC401 Problem A - Arrange](./ABC/ABC401/a.py) - 2024-11-10
+- [ABC401 Problem A - Arrange](./ABC/ABC401/a.py) - 2025-5-3
 
 ## 📚 カテゴリ別解答数
 - 条件分岐: 1問
